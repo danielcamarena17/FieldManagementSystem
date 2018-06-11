@@ -36,3 +36,17 @@ Click on the image below
  Login                              | Post Login                         | New Employee                       |
 :----------------------------------:|:----------------------------------:|:----------------------------------:|
  ![alt text](misc/DemoPhotos/1.jpg) | ![alt text](misc/DemoPhotos/2.jpg) | ![alt text](misc/DemoPhotos/3.jpg) |
+
+ QR Code Generator                  | QR Code                            | Scan QR Code                       |
+:----------------------------------:|:----------------------------------:|:----------------------------------:|
+ ![alt text](misc/DemoPhotos/4.jpg) | ![alt text](misc/DemoPhotos/5.jpg) | ![alt text](misc/DemoPhotos/6.jpg) |
+
+ Employee Profile                   | Query                              | Long Press To Delete               |
+:----------------------------------:|:----------------------------------:|:----------------------------------:|
+ ![alt text](misc/DemoPhotos/7.jpg) | ![alt text](misc/DemoPhotos/8.jpg) | ![alt text](misc/DemoPhotos/9.jpg) |
+
+ Sub-Menu                           | New FMS User Registration Page     | Password Reset Page                |
+:----------------------------------:|:----------------------------------:|:----------------------------------:|
+ ![alt text](misc/DemoPhotos/10.jpg)| ![alt text](misc/DemoPhotos/11.jpg)| ![alt text](misc/DemoPhotos/12.jpg)|
+
+ ![alt text](misc/DemoPhotos/Timesheet.jpg)
