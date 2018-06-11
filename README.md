@@ -33,12 +33,6 @@ Click on the image below
 
 ## Screenshots
 
-Solarized dark                      |  Solarized Ocean
-:----------------------------------:|:-------------------------:
-![alt text](misc/DemoPhotos/1.jpg)  |  ![alt text](misc/DemoPhotos/2.jpg)
-
- 
-Login
-
-
-Post Login
+ Login                              | Post Login                         | New Employee                       |
+:----------------------------------:|:----------------------------------:|:----------------------------------:|
+ ![alt text](misc/DemoPhotos/1.jpg) | ![alt text](misc/DemoPhotos/2.jpg) | ![alt text](misc/DemoPhotos/3.jpg) |
