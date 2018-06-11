@@ -49,5 +49,6 @@ Click on the image below to start video
 :----------------------------------:|:----------------------------------:|:----------------------------------:|
  ![alt text](misc/DemoPhotos/10.jpg)| ![alt text](misc/DemoPhotos/11.jpg)| ![alt text](misc/DemoPhotos/12.jpg)|
 
-Timesheet
-![alt text](misc/DemoPhotos/Timesheet.JPG)
+ Timesheet                                 | 
+:-----------------------------------------:|
+ ![alt text](misc/DemoPhotos/Timesheet.JPG)|
