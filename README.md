@@ -28,5 +28,5 @@ The Field Management System (FMS), is an Android application that allows supervi
 
 ## Demo Video
 
-![FMS Demo](doc/demo.JPG)
+[![FMS Demo](doc/demo.JPG)]
 (https://youtu.be/w_0AKgt2M78 "FMS Demo")
