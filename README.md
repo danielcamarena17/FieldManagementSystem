@@ -27,3 +27,6 @@ The Field Management System (FMS), is an Android application that allows supervi
 - The FMS application is secure because it requires user authentication via email link
 
 ## Demo Video
+
+![alt text](doc/demo.jpg)
+(https://youtu.be/w_0AKgt2M78 "FMS Demo")
