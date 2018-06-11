@@ -33,7 +33,11 @@ Click on the image below
 
 ## Screenshots
 
-![alt text](misc/DemoPhotos/1.jpg) ![alt text](misc/DemoPhotos/2.jpg)
+Solarized dark                      |  Solarized Ocean
+:----------------------------------:|:-------------------------:
+![alt text](misc/DemoPhotos/1.jpg)  |  ![alt text](misc/DemoPhotos/2.jpg)
+
+ 
 Login
 
 
