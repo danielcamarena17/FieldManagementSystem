@@ -33,18 +33,8 @@ Click on the image below
 
 ## Screenshots
 
-![alt text](misc/1.jpg)
+![alt text](misc/Demo Photos/1.jpg)
 Login
 
-![alt text](misc/2.jpg)
+![alt text](misc/Demo Photos/2.jpg)
 Post Login
-
-![alt text](misc/1.jpg)
-![alt text](misc/1.jpg)
-![alt text](misc/1.jpg)
-![alt text](misc/1.jpg)
-![alt text](misc/1.jpg)
-![alt text](misc/1.jpg)
-![alt text](misc/1.jpg)
-![alt text](misc/1.jpg)
-![alt text](misc/1.jpg)
