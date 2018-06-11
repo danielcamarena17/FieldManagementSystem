@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1014198729121",
+    "firebase_url": "https://dbfms-5ccb1.firebaseio.com",
+    "project_id": "dbfms-5ccb1",
+    "storage_bucket": "dbfms-5ccb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014198729121:android:af5dc20c021a22a4",
+        "android_client_info": {
+          "package_name": "camarena.daniel.capstone.fms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014198729121-bqpcc69t6uqn4fr7u78ot0t8g8l6jqmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "camarena.daniel.capstone.fms",
+            "certificate_hash": "639b100826da0a16836a4b0dba198b551c0f7e13"
+          }
+        },
+        {
+          "client_id": "1014198729121-b4bbfu3bjvr1ju0cl5ekib0h1cofvq3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARf61Mgyd4bBPc2iKjoAn1IOCWIcg_vBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014198729121-b4bbfu3bjvr1ju0cl5ekib0h1cofvq3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

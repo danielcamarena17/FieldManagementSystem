@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FMS</string>
+
+    <string name="create_new_app_user">Create New App User</string>
+
+    <string name="already_registered_click_here">Already Registered? Click here</string>
+</resources>
