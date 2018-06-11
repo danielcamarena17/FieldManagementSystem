@@ -6,24 +6,24 @@ The Field Management System (FMS), is an Android application that allows supervi
 
 ## Objectives
 
-A) Create a space where the supervisor has all the resources available to collect employee hours quickly and efficiently 
-B) Create a space where employee hours are immediately available to the company after data collection
-C) Create a space where data collection is secured
-D) Reduce time spent logging employee hours
-E) Eliminate the need to travel to the company and submit the logged hours 
-F) Eliminate the wait time before the company has access to the logged hours
-G) Eliminate conventional means to record employee work hours such as pencil and paper
-H) Eliminate the need for a data entry employee at the company to log hours into system
+- Create a space where the supervisor has all the resources available to collect employee hours quickly and efficiently 
+- Create a space where employee hours are immediately available to the company after data collection
+- Create a space where data collection is secured
+- Reduce time spent logging employee hours
+- Eliminate the need to travel to the company and submit the logged hours 
+- Eliminate the wait time before the company has access to the logged hours
+- Eliminate conventional means to record employee work hours such as pencil and paper
+- Eliminate the need for a data entry employee at the company to log hours into system
 
 ## Features
 
-A) QR Code Scanner
-B) QR Code Generator
-C) QR Code can be sent via text, email, or any android app that can send photos
-D) Realtime database
-E) Password reset via email link
-F) Employee timesheet is updated realtime
-G) Employee timesheet can be downloaded as an excel file
-H) The FMS application is secure because it requires user authentication via email link
+- QR Code Scanner
+- QR Code Generator
+- QR Code can be sent via text, email, or any android app that can send photos
+- Realtime database
+- Password reset via email link
+- Employee timesheet is updated realtime
+- Employee timesheet can be downloaded as an excel file
+- The FMS application is secure because it requires user authentication via email link
 
 ## Demo Video
